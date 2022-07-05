@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFCE50</color>
+    <color name="purple_500">#FFCE50</color>
+    <color name="purple_700">#FFCE50</color>
+    <color name="teal_200">#FFCE50</color>
+    <color name="teal_700">#FFCE50</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFCE50</color>
+    <color name="colorPrimaryDark">#c89d19</color>
+    <color name="colorAccent">#ffff81</color>
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="blanco_op">#B8FFFFFF</color>
+    <color name="color_logo">#1F294E</color>
+    <color name="color_registro">#CACACA</color>
+
+    <color name="colorSecondary">#858585</color>
+    <color name="colorSecondaryDark">#565557</color>
+
+    <color name="mercado_pago">#01B1EC</color>
+
+</resources>
